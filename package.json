@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage" : "https://bsuryakiran.github.io/new_slider/"
+  "homepage" : "https://bsuryakiran.github.io/new_slider/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
